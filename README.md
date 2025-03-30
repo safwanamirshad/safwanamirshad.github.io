@@ -1,4 +1,4 @@
-# 🩺 Safwana Mirshad | Medical Writing Portfolio  
+# 🩺 Safwana Mirshad | Health and Medical Writer Portfolio  
 **A responsive showcase of health/medical writing, research summaries, and patient education content.**  
 
 🔗 **[Live Demo](https://safwanamirshad.github.io/portfolio/)** | 📧 **Contact:** [safwanamirshad@gmail.com](mailto:safwanamirshad@gmail.com)  
